@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Zhihong Mai
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-ZHMAI-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[YourLinkedInUsername/](https://www.linkedin.com/in/zhihong-mai-b7115323a/))]([https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/zhihong-mai-b7115323a/))
+
 <!--
 **ZhihongMai/ZhihongMai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
