@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### About me 👋
+### **About me** 👋
 📊 A passionate Data Analyst. 😄 I enjoy solving complex problems by analyzing data to uncover hidden insights.
 - 🎓 I graduated from Brock University with a Master's degree in Business Economics.
 - 💻 Experienced in **SQL**, **Python**, **Tableau**, and **Excel**.
