@@ -21,7 +21,7 @@
 <img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /></a>
 <img title="Tableau" alt="Tableau" width="245px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Tableau.png" /></a>
 <img title="MySQL" alt="MySQL" width="51px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/MySQL.png"/></a>
-<img title="Jupyter" alt="Jupyter" width="44px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Jupyter.png"/></a>
+<img title="Jupyter" alt="Jupyter" width="60px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Jupyter.png"/></a>
 
 
 
