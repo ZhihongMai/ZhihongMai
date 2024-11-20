@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## **About me** <img src="https://github.com/ZhihongMai/ZhihongMai/blob/main/wave.gif" width="30">
+## **About me** <img src="https://github.com/ZhihongMai/ZhihongMai/raw/main/wave.gif" width="30">
 
 
 📊 A passionate Data Analyst. 😄 I enjoy solving complex problems by analyzing data to uncover hidden insights.
