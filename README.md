@@ -14,9 +14,8 @@
 - 📚 I'm interested in data science, business intelligence, and AI.
 
 
-## 👨🏻‍💻 **Programming Languages and Tools**
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+## 👨🏻‍💻 **Programming Languages and Tools I Use**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai/)|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />
 
+[![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai/)
