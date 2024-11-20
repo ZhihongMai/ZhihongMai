@@ -2,6 +2,12 @@
 
 <p>Welcome to my page! </br> I'm Zhihong Mai
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai/)
 
 
