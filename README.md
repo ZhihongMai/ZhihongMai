@@ -31,4 +31,4 @@ A passionate 📊Data Analyst. 😄 I enjoy solving complex problems by analyzin
 
 ## 📬 **Find me at**
 
-[![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai/)
+[![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai)
