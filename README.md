@@ -1,4 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
