@@ -7,7 +7,7 @@
 ## **About me** <img src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/wave.gif" width="30">
 
 
-📊 A passionate Data Analyst. 😄 I enjoy solving complex problems by analyzing data to uncover hidden insights.
+A passionate 📊Data Analyst. 😄 I enjoy solving complex problems by analyzing data to uncover hidden insights. passionate about learning and working with new tech.
 - 🎓 Graduated from Brock University with a Master's degree in Business Economics.
 - 💻 Experienced in **SQL**, **Python**, **Tableau**, and **Excel**.
 - 🌱 Exploring data visualization techniques and building interactive dashboards.
