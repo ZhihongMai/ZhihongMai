@@ -16,11 +16,11 @@
 
 ## 👨🏻‍💻 **Programming Languages and Tools I Use**
 <code><img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><code>
-<img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" /></a>
-<img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /></a> 
-<img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /></a>
-<img title="Tableau" alt="Tableau" width="245px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Tableau.png" /></a>
-<img title="MySQL" alt="MySQL" width="51px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/MySQL.png"/></a>
+<code><img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" /><code>
+<code><img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /><code>
+<code><img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /><code>
+<code><img title="Tableau" alt="Tableau" width="245px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Tableau.png" /><code>
+<code><img title="MySQL" alt="MySQL" width="51px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/MySQL.png"/><code>
 
 
 ## 
