@@ -13,7 +13,7 @@
 - 🌱 Exploring data visualization techniques and building interactive dashboards.
 - 📚 I'm interested in data science, business intelligence, and AI.
 
-
+<hr>
 ## 👨🏻‍💻 **Programming Languages and Tools I Use**
 <img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a>
 <img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" /></a>
