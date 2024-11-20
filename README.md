@@ -6,8 +6,9 @@
 </h1>
 
 ### About me
-A passionate Data Analyst. I love transforming raw data into actionable insights and building data-driven solutions that help businesses grow.
+A passionate Data Analyst.  I enjoy solving complex problems by analyzing data to uncover hidden insights.
 - 🎓 I graduated from Brock University with a Master's degree in Business Economics.
+- 💼 I work with tools like SQL, Python, Tableau, PowerBI, and Excel to analyze data.
 - 
 
 
