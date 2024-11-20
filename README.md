@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-About me
+### About me
 - 🎓 I graduated from Brock University with a Master's degree in Business Economics.
 - 
 
