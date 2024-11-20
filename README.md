@@ -14,7 +14,6 @@ A passionate 📊Data Analyst. 😄 I enjoy solving complex problems by analyzin
 - 📚 I'm interested in data science, business intelligence, and AI.
 
  <br/>
- <br/>
 
 
 ## 👨🏻‍💻 **Programming Languages and Tools I Use**
