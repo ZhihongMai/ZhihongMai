@@ -15,7 +15,7 @@
 
 
 ## 👨🏻‍💻 **Programming Languages and Tools I Use**
-<code><img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></code>
+<code><img title="Python" alt="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></code>
 <code><img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" /></code>
 <code><img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /></code>
 <code><img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /></code>
