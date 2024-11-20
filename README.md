@@ -5,9 +5,8 @@
   </a>
 </h1>
 
-
+About me
 - 🎓 I graduated from Brock University with a Master's degree in Business Economics.
-- 💻 I love learning any newthings
 - 
 
 
