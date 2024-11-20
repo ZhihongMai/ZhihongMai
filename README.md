@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### **About me** <img src="https://github.com/ZhihongMai/ZhihongMai/blob/main/wave.gif" width="30">
+## **About me** <img src="https://github.com/ZhihongMai/ZhihongMai/blob/main/wave.gif" width="30">
 
 
 📊 A passionate Data Analyst. 😄 I enjoy solving complex problems by analyzing data to uncover hidden insights.
@@ -14,6 +14,8 @@
 - 📚 I'm interested in data science, business intelligence, and AI.
 
 
+## 
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-zhmai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhmai/)](https://www.linkedin.com/in/zhmai/)
