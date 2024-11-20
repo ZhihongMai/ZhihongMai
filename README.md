@@ -15,7 +15,7 @@
 
 
 ## 👨🏻‍💻 **Programming Languages and Tools I Use**
-<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />| <img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /> | <img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /> |  <img title="Tableau" alt="Tableau" width="160px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Tableau.png" />
+<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="R" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />| <img title="SQL" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /> | <img title="Power BI" alt="Power BI" width="150px" src="https://github.com/ZhihongMai/ZhihongMai/blob/main/Image/PowerBI.png" /> |  <img title="Tableau" alt="Tableau" width="200px" src="https://github.com/ZhihongMai/ZhihongMai/raw/main/Image/Tableau.png" />
 
 
 
