@@ -6,6 +6,7 @@
 </h1>
 
 ### About me
+A passionate Data Analyst. I love transforming raw data into actionable insights and building data-driven solutions that help businesses grow.
 - 🎓 I graduated from Brock University with a Master's degree in Business Economics.
 - 
 
